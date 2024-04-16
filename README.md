@@ -2,8 +2,8 @@
 - 👀 I’m interested in AI, Mobile and Web Development
 - 🌱 I’m currently learning Nextjs, Azure Ai, etc
 - 💞️ I’m looking to collaborate on all kind of projects including AI and Opensource
-- 📫 How to reach me: 
-- 😄 Pronouns: 
+- 📫 How to reach me: my github, email, etc
+- 😄 Pronouns: -
 - ⚡ Fun fact: Coding is like a fun puzzle to assemble !!
 
 <!---
